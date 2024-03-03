@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Navigation-Routing/static/css/main.78527887.css",
+    "main.js": "/Navigation-Routing/static/js/main.488c1eaa.js",
+    "index.html": "/Navigation-Routing/index.html",
+    "main.78527887.css.map": "/Navigation-Routing/static/css/main.78527887.css.map",
+    "main.488c1eaa.js.map": "/Navigation-Routing/static/js/main.488c1eaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78527887.css",
+    "static/js/main.488c1eaa.js"
+  ]
+}
