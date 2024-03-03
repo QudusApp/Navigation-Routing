@@ -1,0 +1,29 @@
+/* General container styling */
+.about-container {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4; /* Light grey background */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+    font-family: 'Arial', sans-serif; /* Font styling */
+  }
+  
+  /* Styling for headings */
+  h2 {
+    color: #333; /* Dark grey color for headings */
+    margin-bottom: 10px; /* Space below the heading */
+  }
+  
+  h3 {
+    color: #555; /* Slightly lighter grey for subheadings */
+    margin-top: 15px; /* Space above the subheading */
+    margin-bottom: 5px; /* Space below the subheading */
+  }
+  
+  /* Paragraph styling */
+  p {
+    color: #666; /* Medium grey for text */
+    line-height: 1.6; /* Line spacing for readability */
+    text-align: justify; /* Justified text alignment */
+  }
+  

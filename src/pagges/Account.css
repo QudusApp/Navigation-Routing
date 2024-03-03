@@ -1,0 +1,96 @@
+/* Global Layout Styles */
+.layout {
+    background: #f0f2f5; /* Light grey background for the entire layout */
+  }
+  
+  /* Header Styles */
+  .header {
+    background: #001529; /* Dark blue background for the header */
+    color: #fff; /* White text color for the header */
+  }
+  
+  /* Content Styles */
+  .content {
+    margin: 20px 16px; /* Margin around the content for spacing */
+    padding: 24px; /* Padding inside the content area */
+    background: #fff; /* White background for the content area */
+    min-height: 280px; /* Minimum height for the content area */
+  }
+  
+  /* Card Styles */
+  .ant-card {
+    border-radius: 8px; /* Rounded corners for the card */
+  }
+  
+  /* Statistic Styles */
+  .ant-statistic-title {
+    color: #888; /* Grey color for the statistic title */
+  }
+  
+  .ant-statistic-content {
+    font-size: 24px; /* Larger font size for the statistic value */
+  }
+  
+  /* Statistic Value Color Overrides */
+  .ant-statistic-content-value {
+    color: inherit; /* Ensures the color is inherited from parent for custom coloring */
+  }
+  
+  .value-green {
+    color: #3f8600; /* Green color for positive values */
+  }
+  
+  .value-red {
+    color: #cf1322; /* Red color for negative values */
+  }
+  
+  /* Progress Styles */
+  .ant-progress-inner {
+    background-color: #f5f5f5; /* Light grey background for progress bar */
+  }
+  
+  .ant-progress-bg {
+    height: 10px; /* Thicker progress bar for better visibility */
+  }
+  
+  /* Footer Styles */
+  .footer {
+    text-align: center;
+    background: #001529; /* Dark blue background for the footer */
+    color: #fff; /* White text color for the footer */
+    padding: 10px 0; /* Padding for the footer */
+  }
+  
+  /* Dashboard.css */
+.layout {
+  background: #f0f2f5;
+}
+
+.layout .ant-layout-header {
+  background: #7dbcea;
+  color: #fff;
+  line-height: normal;
+  padding: 0 20px;
+}
+
+.layout .ant-card {
+  margin: 20px;
+}
+
+.layout .ant-statistic-title {
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.layout .ant-progress-inner {
+  background-color: #f5f5f5;
+}
+
+.layout .ant-progress-bg {
+  background-color: #1890ff;
+}
+
+.layout .ant-layout-footer {
+  background: #7dbcea;
+  color: #fff;
+  text-align: center;
+}

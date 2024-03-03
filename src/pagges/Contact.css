@@ -1,0 +1,64 @@
+/* General body styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Contact form container styling */
+  div {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  /* Styling for form headings */
+  h2 {
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  /* Label styling */
+  label {
+    display: block;
+    margin-bottom: 5px;
+    color: #666;
+  }
+  
+  /* Input and Textarea styling */
+  input[type="text"],
+  input[type="email"],
+  textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    border: 1px solid #ddd;
+    box-sizing: border-box; /* Makes sure padding does not affect overall width */
+  }
+  
+  /* Textarea specific styling */
+  textarea {
+    height: 150px;
+  }
+  
+  /* Submit button styling */
+  button {
+    background-color: #005a87;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* Hover and focus states for button */
+  button:hover,
+  button:focus {
+    background-color: #003d5b;
+  }
+  
